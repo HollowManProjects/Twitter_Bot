@@ -1,0 +1,24 @@
+src:
+
+    -- Main run shell file or python script :
+
+        Script to execute python script with the given paths of the 
+        directories in the Subfolders
+
+    -- Python script to make post based on a directory : 
+        
+        The script will execute on a given directory path
+        and will create a post given directory's content 
+
+    -- Subfolders : 
+        
+        This will hold the directories that 
+        will hold the data needed for the post script:
+
+        * Hashtag File
+
+        * Last Check File
+
+        * Post Text File
+
+        * Pictures (Optional)
