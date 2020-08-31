@@ -1,4 +1,4 @@
-src:
+AutomatingPost:
 
     -- Main run shell file or python script :
 
@@ -22,3 +22,10 @@ src:
         * Post Text File
 
         * Pictures (Optional)
+
+FollowAndLike:
+
+    -- Main python script:
+
+        Gets a list of ids based on given hashtag file and 
+        likes and follows based on that 
